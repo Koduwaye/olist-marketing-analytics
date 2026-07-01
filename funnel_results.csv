@@ -1,0 +1,6 @@
+Stage,Orders,Step Conversion %,Overall Conversion %,Drop-off,Drop-off %
+Order Placed,99441,,100.0,0,0.0
+Order Approved,99281,99.8,99.8,160,0.2
+Shipped,97658,98.4,98.2,1623,1.6
+Delivered,96476,98.8,97.0,1182,1.2
+Review Left,98673,102.3,99.2,-2197,-2.3

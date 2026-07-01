@@ -1,0 +1,10 @@
+metric,value
+total_reviews_scored,40656
+positive_pct,52.8
+neutral_pct,22.9
+negative_pct,24.3
+vip_at_churn_risk,3001
+avg_ltv_at_risk,371.5
+revenue_at_risk,1114871
+worst_category,office_furniture
+worst_category_neg_pct,36.7
